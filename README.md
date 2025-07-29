@@ -1,4 +1,6 @@
-# Express.js TypeScript Project Created with Vratix
+# Express.js TypeScript Project Created with Line0
+
+Continue building more features using [Line0](https://line0.dev) and connect your GitHub for a seamless 2-way sync!
 
 ## Features
 
